@@ -3,5 +3,6 @@ clickBtn.addEventListener('click', showmsg);
 
 
 function showmsg(){
-    alert("hello world");
+    alert("hello world neww");
 }
+ 
