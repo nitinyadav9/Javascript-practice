@@ -6,4 +6,6 @@ function inputMsg(){
     let name = prompt('enter the name please');
     clickBtn.textContent = 'Name of student is ' + name ;
 }
- 
+function new(){
+    
+}
